@@ -1,0 +1,22 @@
+start the code
+first import the random module
+after create a list of subject,action and place
+name = ["shahruk","rahul gandhi","narendra modi","alia bhat"]
+
+action = ["eats","is traveling","dances with","found taking drugs with trump"]
+
+places = ["japan","village","dehradun"]
+
+start the loop (while) that keep running unit the user says"NO"
+
+randomly chose the the name,actionand place using the random module
+
+now combine the list as a sentence chosen randomly 
+
+now print the final headline generated
+
+ask if they want to stop or repeeat again
+ write no if they want to end the loop or repitition
+
+ print goodbye
+ end the program
